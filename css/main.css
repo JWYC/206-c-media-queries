@@ -93,14 +93,17 @@ footer {
 
   #column-1 {
     background-color:#db7093;
+    width:33.33%;
   }
 
   #column-2 {
     background-color:#ffc0cb;
+    width:33.33%;
   }
 
   #column-3 {
     background-color:#ffdab9;
+    width:33.33%;
   }
 
   footer {
